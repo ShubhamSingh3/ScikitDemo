@@ -6,3 +6,6 @@
 <li>spam.txt - Spam Detection Dataset Downloaded from https://www.kaggle.com/uciml/sms-spam-collection-dataset</li>
 <li>language.txt - Locally annotated Hindi (0) English (1) Identification dataset</li>
 </ul>
+
+
+<h4> Contributed by <a href="https://sites.google.com/view/gyanendro">Loitongbam Gyanendro Singh</a> </h4>
