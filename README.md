@@ -4,7 +4,7 @@
 <ul>
 <li>sentiment.txt - SemEval 2016 Task 6 Test Dataset (Binary class +ve:1 -ve:0)</li>
 <li>spam.txt - Spam Detection Dataset Downloaded from https://www.kaggle.com/uciml/sms-spam-collection-dataset</li>
-<li>language.txt - Locally annotated Hindi (0) English (1) Identification dataset</li>
+<li>language.txt - Locally annotated Language Identification dataset for Hindi (0) and English (1)</li>
 </ul>
 
 
